@@ -154,7 +154,7 @@ Her yazdığım kod; **mimarisel temizlik**, **alan bilgisi** ve **operasyonel g
 ## 📫 İletişim
 
 <p>
-  <a href="mailto:isa@ozturk.dev"><img src="https://img.shields.io/badge/E--mail-Contact-E8A838?style=for-the-badge&logo=protonmail&logoColor=white" /></a>
+  <a href="mailto:github@isaozturk.tr"><img src="https://img.shields.io/badge/E--mail-Contact-E8A838?style=for-the-badge&logo=protonmail&logoColor=white" /></a>
   <a href="https://github.com/isa-ozturk"><img src="https://img.shields.io/badge/GitHub-isa--ozturk-0B1D33?style=for-the-badge&logo=github" /></a>
 </p>
 
