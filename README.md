@@ -1,70 +1,72 @@
 <div align="center">
 
+**English · [Türkçe](README.tr.md)**
+
 # İsa Öztürk
 
 ### IT Infrastructure · Software Development · Industrial Automation
 
-**2007’den beri teknoloji sektöründe** · **Lenze Türkiye | 2013–Günümüz** · İstanbul, Türkiye
+**Working in technology since 2007** · **Lenze Türkiye since 2013** · Istanbul, Türkiye
 
-Kurumsal IT altyapısından endüstriyel otomasyona, yazılımdan sahadaki gerçek sistemlere.
+*Connecting enterprise IT, software engineering, and industrial systems to build practical, reliable solutions.*
 
-<a href="mailto:github@isaozturk.tr">E-posta</a> &nbsp;·&nbsp; <a href="https://github.com/isa-ozturk?tab=repositories">Projelerim</a>
+[Email](mailto:github@isaozturk.tr) &nbsp;·&nbsp; [GitHub Projects](https://github.com/isa-ozturk?tab=repositories)
 
 </div>
 
 ---
 
-## Hakkımda
+## About Me
 
-Merhaba, ben **İsa**. Teknoloji alanındaki profesyonel yolculuğum **2007 yılında** başladı. **2013 yılından bu yana Lenze Türkiye’de** kurumsal IT altyapısı, yazılım geliştirme ve endüstriyel otomasyon alanlarında çalışıyorum. Böylece **yaklaşık 19 yıllık mesleki deneyimimi**, farklı teknolojileri bir araya getiren çözümlere dönüştürüyorum.
+I'm **İsa Öztürk**, an IT and software professional whose career in technology began in **2007**. Since **2013**, I've been working at **Lenze Türkiye**, bringing together enterprise infrastructure, software development, and industrial automation.
 
-Bir yandan kurumun ağ, sunucu, güvenlik ve sistem altyapısının sürekliliğini sağlarken diğer yandan iş süreçlerine ve endüstriyel uygulamalara yönelik yazılımlar geliştiriyorum. İhtiyaca göre bir **IT altyapısını tasarlayıp devreye alabiliyor**, bir **.NET uygulamasını uçtan uca geliştirebiliyor** veya bir **PLC ile üst seviye sistemler arasında iletişim kurabiliyorum**.
+My work spans the full lifecycle of a technical solution: understanding a business or operational need, designing the architecture, developing and integrating the components, and keeping the system reliable in production.
 
-Beni tanımlayan en önemli özellik, farklı disiplinleri birbirinden bağımsız ele almak yerine **birlikte çalışan, yönetilebilir ve sürdürülebilir sistemlere** dönüştürmek.
+On any given project, I might design a secure network, build a **C#/.NET application**, develop a **CODESYS PLC function block**, or connect industrial equipment to a monitoring platform. What matters most to me is making these technologies work **together as one maintainable system**.
 
-## Uzmanlık Alanlarım
+## Areas of Expertise
 
-| Alan | Deneyim ve sorumluluklarım |
+| Focus | What I work with |
 | :--- | :--- |
-| **Kurumsal IT & Sistem Yönetimi** | Windows Server ve Linux sistemleri, Active Directory, Microsoft 365, sanallaştırma, depolama, yedekleme, erişim yönetimi ve sistem güvenliği. |
-| **Network & Altyapı Mimarisi** | LAN/WAN, VLAN, routing, firewall, VPN, DNS/DHCP, ağ segmentasyonu, farklı lokasyonların bağlantısı ve altyapı sorunlarının analizi. |
-| **Yazılım Geliştirme** | C# / .NET ile masaüstü uygulamaları ve Web API'ler; PHP, JavaScript/TypeScript ve React ile web uygulamaları; SQL tabanlı veri yönetimi ve sistem entegrasyonları. |
-| **Endüstriyel Otomasyon** | CODESYS ve IEC 61131-3 Structured Text ile PLC yazılımı; OOP tabanlı Function Block mimarileri, HMI/SCADA, sürücü ve hareket kontrolü, OPC UA ve Modbus entegrasyonları. |
-| **IoT, İzleme & DevOps** | Docker tabanlı servisler, Node-RED, MQTT, SNMP, dashboard ve alarm sistemleri; reverse proxy, TLS, self-hosted uygulamalar ve güvenli yayınlama. |
+| **Enterprise IT & Systems** | Windows Server and Linux, Active Directory, Microsoft 365, virtualization, storage, backup, identity and access management, and system security. |
+| **Networks & Infrastructure** | LAN/WAN architecture, VLANs, routing, firewalls, VPNs, DNS/DHCP, network segmentation, multi-site connectivity, and troubleshooting. |
+| **Software Engineering** | Desktop applications and APIs with C#/.NET; web applications with PHP, JavaScript/TypeScript, and React; SQL databases and business-system integrations. |
+| **Industrial Automation** | CODESYS, IEC 61131-3 Structured Text, object-oriented PLC function blocks, HMI/SCADA, drives and motion control, OPC UA, and Modbus integrations. |
+| **IoT, Monitoring & DevOps** | Docker-based services, Node-RED, MQTT, SNMP, dashboards, alerting systems, reverse proxies, TLS, and self-hosted infrastructure. |
 
-## Teknik Altyapım
+## Technical Toolkit
 
-**Yazılım & Veri**  
-`C#` · `.NET / ASP.NET Core` · `WPF / MVVM` · `REST API` · `PHP` · `JavaScript / TypeScript` · `React` · `SQL Server / T-SQL` · `MySQL` · `PostgreSQL`
+**Software & Data**  
+`C#` · `.NET / ASP.NET Core` · `WPF / MVVM` · `REST APIs` · `PHP` · `JavaScript / TypeScript` · `React` · `SQL Server / T-SQL` · `MySQL` · `PostgreSQL`
 
-**PLC & Endüstriyel Haberleşme**  
-`CODESYS` · `IEC 61131-3 / Structured Text` · `PLC OOP` · `PLCopen` · `HMI / SCADA` · `OPC UA` · `Modbus TCP / RTU` · `Motion Control`
+**Industrial Automation & Communication**  
+`CODESYS` · `IEC 61131-3 / Structured Text` · `Object-Oriented PLC Programming` · `PLCopen` · `HMI / SCADA` · `OPC UA` · `Modbus TCP / RTU` · `Motion Control`
 
-**Sistem, Network & DevOps**  
-`Windows Server` · `Linux` · `Active Directory` · `Microsoft 365` · `VLAN / VPN / Firewall` · `Virtualization` · `Docker / Compose` · `Dokploy` · `Traefik` · `Cloudflare Tunnel` · `Git`
+**Infrastructure, Networking & DevOps**  
+`Windows Server` · `Linux` · `Active Directory` · `Microsoft 365` · `VLAN / VPN / Firewalls` · `Virtualization` · `Docker / Compose` · `Dokploy` · `Traefik` · `Cloudflare Tunnel` · `Git`
 
-**IoT & Operasyonel İzleme**  
-`Node-RED` · `MQTT` · `SNMP` · `Monitoring` · `Dashboards` · `Alarm & Notification Systems`
+**IoT & Operations**  
+`Node-RED` · `MQTT` · `SNMP` · `System Monitoring` · `Dashboards` · `Alerts & Notifications`
 
-## Üzerinde Çalıştığım Çözüm Türleri
+## What I Build
 
-- **PLC ve makine uygulamaları:** Tekrar kullanılabilir Function Block kütüphaneleri, cihaz kontrolü, HMI entegrasyonları ve makineye özel lisanslama mekanizmaları.
-- **Kurumsal yazılımlar:** Masaüstü araçları, servis/API katmanları, veritabanı uygulamaları ve manuel iş süreçlerini azaltan otomasyonlar.
-- **Merkezi cihaz izleme:** UPS, yazıcı ve endüstriyel cihazlardan veri toplama; MQTT/SNMP tabanlı izleme, dashboard, olay kaydı ve bildirim akışları.
-- **IT servis altyapıları:** Ağ ve sunucu tasarımı, container tabanlı uygulama barındırma, güvenli uzaktan erişim ve sistemlerin üretim ortamında işletilmesi.
+- **PLC and machine-level solutions** — Reusable function block libraries, equipment control, HMI integrations, and machine-specific licensing mechanisms.
+- **Business and desktop applications** — Internal tools, service and API layers, database-driven systems, and workflow automation that reduces repetitive work.
+- **Connected monitoring systems** — Collecting data from UPS units, printers, and industrial devices; turning it into MQTT/SNMP-based monitoring, dashboards, event histories, and actionable alerts.
+- **Production-ready IT platforms** — Network and server architecture, containerized application hosting, secure remote access, deployment, and ongoing operations.
 
-## Çalışma Yaklaşımım
+## How I Approach Engineering
 
-> **İyi bir sistem yalnızca bugün çalışmamalı; yarın da anlaşılabilir, güvenli ve geliştirilebilir olmalı.**
+> **A well-designed system should not only work today. It should remain understandable, secure, and maintainable tomorrow.**
 
-İhtiyacı anlamaktan mimari tasarıma, geliştirmeden devreye alma ve bakıma kadar sürecin tamamında yer almayı seviyorum. Gereksiz karmaşıklıktan kaçınarak **bakımı kolay, güvenilir ve gerçek ihtiyaçlara karşılık veren** çözümler üretmeye odaklanıyorum.
+I value solutions that balance **clean architecture, practical engineering, and operational reliability**. I enjoy taking ownership from initial design through deployment and maintenance—without unnecessary complexity or shortcuts that create problems later.
 
 ---
 
 <div align="center">
 
-**Birlikte bir şey geliştirmek veya teknik bir konuda iletişime geçmek istersen:**
+**Interested in collaborating or discussing a technical challenge?**
 
-<a href="mailto:github@isaozturk.tr">github@isaozturk.tr</a> &nbsp;·&nbsp; <a href="https://github.com/isa-ozturk">github.com/isa-ozturk</a>
+[github@isaozturk.tr](mailto:github@isaozturk.tr) &nbsp;·&nbsp; [github.com/isa-ozturk](https://github.com/isa-ozturk)
 
 </div>
