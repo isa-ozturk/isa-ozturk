@@ -2,33 +2,69 @@
 
 # İsa Öztürk
 
-**IT Infrastructure · Software Development · Industrial Automation**
+### IT Infrastructure · Software Development · Industrial Automation
 
-*Reliable systems. Practical engineering. Sustainable solutions.*
+**13 yıllık profesyonel deneyim** · **Lenze Türkiye | 2013–Günümüz** · İstanbul, Türkiye
+
+Kurumsal IT altyapısından endüstriyel otomasyona, yazılımdan sahadaki gerçek sistemlere.
+
+<a href="mailto:github@isaozturk.tr">E-posta</a> &nbsp;·&nbsp; <a href="https://github.com/isa-ozturk?tab=repositories">Projelerim</a>
 
 </div>
 
 ---
 
-### Hakkımda
+## Hakkımda
 
-Lenze Türkiye'de **kurumsal IT altyapısı, yazılım geliştirme ve endüstriyel otomasyon** alanlarında çalışıyorum. Ağ ve sistem mimarisinden PLC uygulamalarına, IoT entegrasyonlarından iş yazılımlarına kadar farklı teknolojileri bir araya getirerek **güvenilir ve sürdürülebilir çözümler** geliştiriyorum.
+Merhaba, ben **İsa**. 2013 yılından bu yana Lenze Türkiye'de **bilgi teknolojileri, yazılım geliştirme ve endüstriyel otomasyon** alanlarında çalışıyorum.
 
-### Odak Alanlarım
+Bir yandan kurumun ağ, sunucu, güvenlik ve sistem altyapısının sürekliliğini sağlarken diğer yandan iş süreçlerine ve endüstriyel uygulamalara yönelik yazılımlar geliştiriyorum. İhtiyaca göre bir **IT altyapısını tasarlayıp devreye alabiliyor**, bir **.NET uygulamasını uçtan uca geliştirebiliyor** veya bir **PLC ile üst seviye sistemler arasında iletişim kurabiliyorum**.
 
-- **IT & Infrastructure** — Ağ ve sunucu sistemleri, sanallaştırma, güvenlik ve sistem yönetimi
-- **Software Development** — C#, .NET, WPF, Web API, React, PHP ve SQL
-- **Industrial Automation** — CODESYS, PLC/HMI, IEC 61131-3, OPC UA ve Modbus
-- **IoT & DevOps** — Docker, Node-RED, MQTT, SNMP, izleme ve sistem entegrasyonları
+Beni tanımlayan en önemli özellik, farklı disiplinleri birbirinden bağımsız ele almak yerine **birlikte çalışan, yönetilebilir ve sürdürülebilir sistemlere** dönüştürmek.
 
-### Yaklaşımım
+## Uzmanlık Alanlarım
 
-İyi bir çözümün yalnızca çalışması değil; **anlaşılır, yönetilebilir ve uzun ömürlü** olması gerektiğine inanıyorum. Tasarımdan devreye almaya kadar, yazılım ile gerçek operasyonel ihtiyaçları birlikte değerlendiriyorum.
+| Alan | Deneyim ve sorumluluklarım |
+| :--- | :--- |
+| **Kurumsal IT & Sistem Yönetimi** | Windows Server ve Linux sistemleri, Active Directory, Microsoft 365, sanallaştırma, depolama, yedekleme, erişim yönetimi ve sistem güvenliği. |
+| **Network & Altyapı Mimarisi** | LAN/WAN, VLAN, routing, firewall, VPN, DNS/DHCP, ağ segmentasyonu, farklı lokasyonların bağlantısı ve altyapı sorunlarının analizi. |
+| **Yazılım Geliştirme** | C# / .NET ile masaüstü uygulamaları ve Web API'ler; PHP, JavaScript/TypeScript ve React ile web uygulamaları; SQL tabanlı veri yönetimi ve sistem entegrasyonları. |
+| **Endüstriyel Otomasyon** | CODESYS ve IEC 61131-3 Structured Text ile PLC yazılımı; OOP tabanlı Function Block mimarileri, HMI/SCADA, sürücü ve hareket kontrolü, OPC UA ve Modbus entegrasyonları. |
+| **IoT, İzleme & DevOps** | Docker tabanlı servisler, Node-RED, MQTT, SNMP, dashboard ve alarm sistemleri; reverse proxy, TLS, self-hosted uygulamalar ve güvenli yayınlama. |
+
+## Teknik Altyapım
+
+**Yazılım & Veri**  
+`C#` · `.NET / ASP.NET Core` · `WPF / MVVM` · `REST API` · `PHP` · `JavaScript / TypeScript` · `React` · `SQL Server / T-SQL` · `MySQL` · `PostgreSQL`
+
+**PLC & Endüstriyel Haberleşme**  
+`CODESYS` · `IEC 61131-3 / Structured Text` · `PLC OOP` · `PLCopen` · `HMI / SCADA` · `OPC UA` · `Modbus TCP / RTU` · `Motion Control`
+
+**Sistem, Network & DevOps**  
+`Windows Server` · `Linux` · `Active Directory` · `Microsoft 365` · `VLAN / VPN / Firewall` · `Virtualization` · `Docker / Compose` · `Dokploy` · `Traefik` · `Cloudflare Tunnel` · `Git`
+
+**IoT & Operasyonel İzleme**  
+`Node-RED` · `MQTT` · `SNMP` · `Monitoring` · `Dashboards` · `Alarm & Notification Systems`
+
+## Üzerinde Çalıştığım Çözüm Türleri
+
+- **PLC ve makine uygulamaları:** Tekrar kullanılabilir Function Block kütüphaneleri, cihaz kontrolü, HMI entegrasyonları ve makineye özel lisanslama mekanizmaları.
+- **Kurumsal yazılımlar:** Masaüstü araçları, servis/API katmanları, veritabanı uygulamaları ve manuel iş süreçlerini azaltan otomasyonlar.
+- **Merkezi cihaz izleme:** UPS, yazıcı ve endüstriyel cihazlardan veri toplama; MQTT/SNMP tabanlı izleme, dashboard, olay kaydı ve bildirim akışları.
+- **IT servis altyapıları:** Ağ ve sunucu tasarımı, container tabanlı uygulama barındırma, güvenli uzaktan erişim ve sistemlerin üretim ortamında işletilmesi.
+
+## Çalışma Yaklaşımım
+
+> **İyi bir sistem yalnızca bugün çalışmamalı; yarın da anlaşılabilir, güvenli ve geliştirilebilir olmalı.**
+
+İhtiyacı anlamaktan mimari tasarıma, geliştirmeden devreye alma ve bakıma kadar sürecin tamamında yer almayı seviyorum. Gereksiz karmaşıklıktan kaçınarak **bakımı kolay, güvenilir ve gerçek ihtiyaçlara karşılık veren** çözümler üretmeye odaklanıyorum.
 
 ---
 
-<p align="center">
-  <a href="mailto:github@isaozturk.tr">E-posta</a>
-  &nbsp;·&nbsp;
-  <a href="https://github.com/isa-ozturk">GitHub</a>
-</p>
+<div align="center">
+
+**Birlikte bir şey geliştirmek veya teknik bir konuda iletişime geçmek istersen:**
+
+<a href="mailto:github@isaozturk.tr">github@isaozturk.tr</a> &nbsp;·&nbsp; <a href="https://github.com/isa-ozturk">github.com/isa-ozturk</a>
+
+</div>
