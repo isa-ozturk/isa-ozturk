@@ -66,5 +66,4 @@ Beni tanımlayan en önemli özellik, farklı disiplinleri birbirinden bağıms�
 **Birlikte bir şey geliştirmek veya teknik bir konuda iletişime geçmek istersen:**
 
 <a href="mailto:github@isaozturk.tr">github@isaozturk.tr</a> &nbsp;·&nbsp; <a href="https://github.com/isa-ozturk">github.com/isa-ozturk</a>
-
 </div>
