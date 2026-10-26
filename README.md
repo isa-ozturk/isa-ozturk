@@ -4,7 +4,7 @@
 
 ### IT Infrastructure · Software Development · Industrial Automation
 
-**13 yıllık profesyonel deneyim** · **Lenze Türkiye | 2013–Günümüz** · İstanbul, Türkiye
+**2007’den beri teknoloji sektöründe** · **Lenze Türkiye | 2013–Günümüz** · İstanbul, Türkiye
 
 Kurumsal IT altyapısından endüstriyel otomasyona, yazılımdan sahadaki gerçek sistemlere.
 
@@ -16,7 +16,7 @@ Kurumsal IT altyapısından endüstriyel otomasyona, yazılımdan sahadaki gerç
 
 ## Hakkımda
 
-Merhaba, ben **İsa**. 2013 yılından bu yana Lenze Türkiye'de **bilgi teknolojileri, yazılım geliştirme ve endüstriyel otomasyon** alanlarında çalışıyorum.
+Merhaba, ben **İsa**. Teknoloji alanındaki profesyonel yolculuğum **2007 yılında** başladı. **2013 yılından bu yana Lenze Türkiye’de** kurumsal IT altyapısı, yazılım geliştirme ve endüstriyel otomasyon alanlarında çalışıyorum. Böylece **yaklaşık 19 yıllık mesleki deneyimimi**, farklı teknolojileri bir araya getiren çözümlere dönüştürüyorum.
 
 Bir yandan kurumun ağ, sunucu, güvenlik ve sistem altyapısının sürekliliğini sağlarken diğer yandan iş süreçlerine ve endüstriyel uygulamalara yönelik yazılımlar geliştiriyorum. İhtiyaca göre bir **IT altyapısını tasarlayıp devreye alabiliyor**, bir **.NET uygulamasını uçtan uca geliştirebiliyor** veya bir **PLC ile üst seviye sistemler arasında iletişim kurabiliyorum**.
 
@@ -66,4 +66,5 @@ Beni tanımlayan en önemli özellik, farklı disiplinleri birbirinden bağıms�
 **Birlikte bir şey geliştirmek veya teknik bir konuda iletişime geçmek istersen:**
 
 <a href="mailto:github@isaozturk.tr">github@isaozturk.tr</a> &nbsp;·&nbsp; <a href="https://github.com/isa-ozturk">github.com/isa-ozturk</a>
+
 </div>
